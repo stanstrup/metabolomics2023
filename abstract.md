@@ -8,7 +8,7 @@
 - Josep M. Badia,
 - Carolin Huber, Department of Effect Directed Analysis, Helmholtz Center for Environmental Research, UFZ, Leipzig, Germany
 - Liesa Salzer, Research Unit Analytical BioGeoChemistry, Helmholtz Munich, Neuherberg, Germany
-- Jan Stanstrup,
+- Jan Stanstrup, Department of Nutrition, Exercise and Sports, University of Copenhagen, Frederiksberg, Denmark
 - Nir Shachaf,
 - Thomas Naake,
 - Helge Hecht,
