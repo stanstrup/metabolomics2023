@@ -36,7 +36,7 @@ documentation or lack of adherence to open software development standards.
 The RforMassSpectrometry initiative aims to develop an efficient, thoroughly
 documented and stable infrastructure for mass spectrometry (MS) data
 analysis. As part of this initiative, a growing ecosystem of R software packages
-was and is being, developed covering different aspects of metabolomics and
+was and is being developed covering different aspects of metabolomics and
 proteomics data analysis. To avoid the aforementioned problems open shared development, 
 documentation, support and stability are emphasized.
 
